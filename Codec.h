@@ -1,3 +1,12 @@
+// Copyright 2017, Kelvin Yin.  All rights reserved.
+//
+// Use of this source code is governed by a BSD-style license
+// that can be found in the License file.
+
+// Author:  Kelvin Yin (yinakngxi at gmail dot com)
+//
+// This is a public header file, it must only include public header files.
+
 #ifndef SIMPLE_CODEC_H
 #define SIMPLE_CODEC_H
 
